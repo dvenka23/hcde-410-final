@@ -1,6 +1,6 @@
 # HCDE410
-Files for HCDE410 - Assignment A4
-# A4 — Final Project Preliminary Proposal
+Files for HCDE410 - Assignment A5
 
-**Dataset:** FAANG- Complete Stock Data
-**Source:** https://www.kaggle.com/datasets/aayushmishra1512/faang-complete-stock-data/data
+# A4 — Final Project Preliminary Proposal
+**Dataset:** Founding dates for firms going public in the U.S. during 1975-2025
+**Source:** https://site.warrington.ufl.edu/ritter/files/founding-dates.pdf
